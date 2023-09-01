@@ -1,2 +1,3 @@
 # 7-Segment-Display
- 
+ The provided code is a 7-segment display driver for alphanumeric characters. It is designed to display a given string on a 7-segment display. The characters in the string are predefined as patterns for each segment of the 7-segment display. The code uses an 8051 microcontroller to control the display.
+The code uses a lookup table approach to map each alphanumeric character to its corresponding 7-segment pattern. The specific wiring and display mechanism of the 7-segment display, along with the connection of the 8051 microcontroller, should be taken into consideration when using this code. The code can be adapted for different 7-segment displays with appropriate connections and pattern definitions.
